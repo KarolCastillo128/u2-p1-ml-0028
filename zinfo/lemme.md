@@ -1,0 +1,2 @@
+## array de una dimension
+!
